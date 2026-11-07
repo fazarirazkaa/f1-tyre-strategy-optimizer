@@ -1,0 +1,6 @@
+Circuit,EventName,TotalRaceLaps,RawLaps,Lap1Laps,PitInOutLaps,SC_VSC_RedLaps,SC_VSC_Pct,RainLaps,CandidateCleanLaps,StintOutliersRemoved,FinalCleanLaps,CleanRetentionPct,SoftStints,MediumStints,HardStints,SoftCleanLaps,MediumCleanLaps,HardCleanLaps
+Japan,Japanese Grand Prix,53,908,20,108,20,2.2,0,796,67,729,80.29,8,17,28,48,215,466
+Spain,Spanish Grand Prix,66,1310,20,84,0,0.0,5,1206,71,1135,86.64,30,19,13,432,381,322
+Hungary,Hungarian Grand Prix,70,1356,20,80,0,0.0,0,1255,72,1183,87.24,6,23,30,30,379,774
+Netherlands,Dutch Grand Prix,72,1426,20,52,0,0.0,0,1354,83,1271,89.13,6,20,20,95,441,735
+Abu Dhabi,Abu Dhabi Grand Prix,58,1037,20,54,38,3.66,0,923,45,878,84.67,2,17,24,24,234,620
