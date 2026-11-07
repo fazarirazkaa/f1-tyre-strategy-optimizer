@@ -1,0 +1,11 @@
+SliceType,Regime,Laps,Baseline_MAE_s,Hybrid_MAE_s,Baseline_RMSE_s,Hybrid_RMSE_s,Hybrid_SignedBias_s
+TyreLifeBucket,1-5 Laps (Fresh / Warm-up),841,0.3257,0.2824,0.4341,0.4058,0.0031
+TyreLifeBucket,6-15 Laps (Prime Stint Window),2220,0.4581,0.4296,0.6094,0.5842,0.048
+TyreLifeBucket,16-25 Laps (High Wear Window),1463,0.5557,0.5242,0.711,0.6786,-0.007
+TyreLifeBucket,>25 Laps (Extended / Thermal Cliff),672,0.691,0.5553,0.8428,0.7087,-0.0809
+RacePhaseBucket,Laps 2-5 (Opening Pack / DRS Train),278,0.3133,0.2748,0.3885,0.3555,0.0118
+RacePhaseBucket,Laps 6-40 (Mid-Race Strategic Phase),2923,0.4702,0.428,0.623,0.582,0.0392
+RacePhaseBucket,Laps >40 (Late-Race Low Fuel),1995,0.5548,0.5031,0.7162,0.665,-0.0368
+Compound,HARD,2917,0.5464,0.474,0.7079,0.6333,-0.0137
+Compound,MEDIUM,1650,0.4335,0.411,0.5739,0.5615,0.0115
+Compound,SOFT,629,0.4121,0.43,0.5558,0.5881,0.1044
