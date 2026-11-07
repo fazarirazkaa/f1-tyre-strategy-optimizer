@@ -1,0 +1,6 @@
+Circuit,EventName,TotalRaceLaps,EmpiricalPitLossSeconds,RecommendedStrategy,OptimalCompounds,OptimalPitLaps,OptimalStintLengths,OptimalTotalTime,Best1StopCompounds,Best1StopPitLap,Best1StopTime,Best2StopCompounds,Best2StopPitLaps,Best2StopTime,TimeGap_2Stop_vs_1Stop_s
+Abu Dhabi,Abu Dhabi Grand Prix,58,24.19,1-Stop,MEDIUM → HARD,26,26-32,1:27:54.00,MEDIUM → HARD,26,1:27:54.00,MEDIUM → SOFT → HARD,"20, 36",1:28:00.52,6.52
+Hungary,Hungarian Grand Prix,70,20.6,2-Stop,MEDIUM → SOFT → HARD,"25, 43",25-18-27,1:40:08.69,MEDIUM → HARD,30,1:40:15.39,MEDIUM → SOFT → HARD,"25, 43",1:40:08.69,-6.7
+Japan,Japanese Grand Prix,53,23.04,1-Stop,MEDIUM → HARD,25,25-28,1:27:22.12,MEDIUM → HARD,25,1:27:22.12,MEDIUM → SOFT → HARD,"19, 34",1:27:26.91,4.79
+Netherlands,Dutch Grand Prix,72,24.24,1-Stop,MEDIUM → HARD,32,32-40,1:32:57.18,MEDIUM → HARD,32,1:32:57.18,MEDIUM → SOFT → MEDIUM,"26, 46",1:32:59.22,2.04
+Spain,Spanish Grand Prix,66,23.3,2-Stop,MEDIUM → SOFT → HARD,"24, 42",24-18-24,1:30:17.57,MEDIUM → HARD,30,1:30:18.66,MEDIUM → SOFT → HARD,"24, 42",1:30:17.57,-1.09
